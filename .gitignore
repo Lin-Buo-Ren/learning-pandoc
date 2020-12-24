@@ -1,0 +1,11 @@
+# Version Tracking Ignore Rules for Git VCS
+# https://git-scm.com/docs/gitignore
+
+## Do track Git settings
+!.git*
+
+## Ignore files that are common export formats
+*.html
+*.tex
+*.docx
+*.pdf
